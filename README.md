@@ -141,7 +141,7 @@ Olá! Meu nome é João Victor, tenho 23 anos e atualmente estudo Engenharia de 
 </td>
 <td>
 <!-- <a href="https://twitter.com/joaoaramuni" target="_blank"><img width="400px" height="270px" alt="tweets" src="https://github-readme-twitter.gazf.vercel.app/api?id=joaoaramuni"/></a> -->
-<a href="https://www.last.fm/pt/user/6f59falzai626ilb5s7yuyu0m" target="_blank"><img width="400px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=6f59falzai626ilb5s7yuyu0m&width=400"/></a>
+<a href="https://www.last.fm/pt/user/6f59falzai626ilb5s7yuyu0m" target="_blank"><img width="400px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=Joao_Moyses"/></a>
 </td>
 </tr>
 <tr>
