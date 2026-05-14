@@ -122,7 +122,7 @@ Olá! Meu nome é João Victor, tenho 23 anos e atualmente estudo Engenharia de 
 
 <div>
 <details>
-<summary><img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/spotify.svg?v=1&cb=1"/> Aramuni's Spotify Data</summary>
+<summary><img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/spotify.svg?v=1&cb=1"/> João Victor's Spotify Data</summary>
 <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=6f59falzai626ilb5s7yuyu0m" alt="Data Card for Spotify"/>
 </details>
 </div>
