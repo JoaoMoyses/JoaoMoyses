@@ -149,6 +149,5 @@ Olá! Meu nome é João Victor, tenho 23 anos e atualmente estudo Engenharia de 
 </tr> 
 </table>
 </div>
-[![Profile Views](https://komarev.com/ghpvc/?username=JoaoMoyses&style=for-the-badge)](https://nice-readme.vercel.app/views-badge)
-
+<a href="https://nice-readme.vercel.app/views-badge" target="_blank" rel="noopener noreferrer"><img src="https://komarev.com/ghpvc/?username=JoaoMoyses&style=for-the-badge" alt="Profile Views" loading="lazy" /></a>
 
