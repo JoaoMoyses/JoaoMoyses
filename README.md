@@ -1,7 +1,9 @@
 #  João Victor Moyses
 
 **`Desenvolvedor FullStack`**
-
+<div>
+<img align="center" alt="Header" src="https://joaopauloaramuni.github.io/image/header_aramuni.png"/>
+</div>
 Olá! Meu nome é João Victor, tenho 23 anos e atualmente estudo Engenharia de Software na PUC Minas. Sou apaixonado por tecnologia e estou sempre buscando aprender, criar e evoluir como desenvolvedor.
 ### 🌐 Conecte-se comigo
 
