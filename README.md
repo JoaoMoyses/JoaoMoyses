@@ -20,21 +20,20 @@ Olá! Meu nome é João Victor, tenho 23 anos e atualmente estudo Engenharia de 
 <td><a href="https://aramuni.dev/"><img src="https://joaopauloaramuni.github.io/image/portfolio3.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="https://github.com/JoaoMoyses" target="_blank"><img src="https://joaopauloaramuni.github.io/image/github5.png?raw=true" width="50px" height="50px"/></a>
-td>
 <td><a href="mailto:joaovsm222@gmail.com" target="_blank"><img src="https://joaopauloaramuni.github.io/image/gmail3.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="https://w</a.me/5531980402103" target="_blank"><img src="https://joaopauloaramuni.github.io/image/wpp2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="https://www.instagram.com/joaovsm16/" target="_blank"><img src="https://joaopauloaramuni.github.io/image/insta2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="www.linkedin.com/in/joão-victor-santos-moyses-61b585398" target="_blank"><img src="https://joaopauloaramuni.github.io/image/linkedin2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.linkedin.com/in/joão-victor-santos-moyses-61b585398" target="_blank"><img src="https://joaopauloaramuni.github.io/image/linkedin2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="http://lattes.cnpq.br/1208427665892059" target="_blank"><img src="https://joaopauloaramuni.github.io/image/lattes2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 
 <td><a href="https://discordapp.com/users/dirty_dan5910" target="_blank"><img src="https://joaopauloaramuni.github.io/image/discord2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.skoob.com.br/perfil/Aramuni" target="_blank"><img src="https://joaopauloaramuni.github.io/image/skoob2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.skoob.com.br/perfil/Jonas" target="_blank"><img src="https://joaopauloaramuni.github.io/image/skoob2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="https://scholar.google.com.br/citations?user=OARYxSYAAAAJ&hl=pt-BR&oi=ao" target="_blank"><img src="https://joaopauloaramuni.github.io/image/scholar2.png?raw=true" width="50px" height="50px"/></a>
 </td>
@@ -58,10 +57,12 @@ td>
 <div align="justify">
 <p> 
 - :man_teacher: Na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>, sou aluno</code> no curso de Engenharia de Software.
+  
 - :briefcase: No momento, estou desenvolvendo um <b>site interativo</b> com informações e estatísticas sobre a <b>Copa do Mundo da FIFA 2026</b>.<br />
+- 📙: Focado em especialização: aprofundando conhecimentos em arquitetura **Python** e iniciando a jornada no ecossistema **React**.
 - :trophy: :trophy: Um dos meus maiores hobbies é jogar xadrez! Você pode me desafiar ou acompanhar minhas partidas no <a href="https://www.chess.com/member/Dirty_Dan11" target="_blank">Chess.com</a>.<br />
-- :books: Acesse os livros que já li ou estou lendo <a href="https://www.skoob.com.br/perfil/Aramuni" target="_blank">aqui</a>.<br />
-- :tv: Minha série preferida chama-se <a href="https://www.imdb.com/pt/title/tt0412142/" target="_blank">House M.D</a>. Atualmente estou assistindo <a href="https://www.imdb.com/pt/title/tt32550889/?ref_=nv_sr_srsg_0_tt_6_nm_1_in_1_q_witch%20" target="_blank">Witch Hat Atelier</a>, <a href="https://www.imdb.com/pt/title/tt10466872/" 
+- :books: Acesse os livros que já li ou estou lendo <a href="https://www.skoob.com.br/perfil/Jonas" target="_blank">aqui</a>.<br />
+- :clapper: Veja minhas avaliações e listas de filmes no <a href="https://letterboxd.com/Dirty_Dan11" target="_blank">Letterboxd</a>.<br />
 - :page_facing_up: Veja meu <a href="http://lattes.cnpq.br/1208427665892059" target="_blank">Currículo Lattes</a> para mais informações.
 </p>
 </div>
