@@ -1,8 +1,8 @@
 #  João Victor Moyses
 
 **`Desenvolvedor FullStack`**
-<div>
-<img align="center" alt="Header" src="https://joaopauloaramuni.github.io/image/header_aramuni.png"/>
+<div align="center">
+  <img src="./img/github-header-banner.png" width="100%" alt="Banner do Meu Perfil">
 </div>
 
 
