@@ -21,19 +21,16 @@ Olá! Meu nome é João Victor, tenho 23 anos e atualmente estudo Engenharia de 
 <div align="justify">
 <p> 
 - :man_teacher: Na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>, sou aluno</code> no curso de Engenharia de Software.
-- :briefcase: No momento trabalho em um projeto interativo com informações sobre todos os jogos da Copa do Mundo da FIFA 2026.
-- :trophy: Um dos meus maiores hobbies é jogar xadrez!
-
+- :briefcase: No momento, estou desenvolvendo um <b>site interativo</b> com informações e estatísticas sobre a <b>Copa do Mundo da FIFA 2026</b>.<br />
+- :trophy: :trophy: Um dos meus maiores hobbies é jogar xadrez! Você pode me desafiar ou acompanhar minhas partidas no <a href="https://www.chess.com/member/Dirty_Dan11" target="_blank">Chess.com</a>.<br />
 - :books: Acesse os livros que já li ou estou lendo <a href="https://www.skoob.com.br/perfil/Aramuni" target="_blank">aqui</a>.<br />
-- :tv: Minha série preferida chama-se <a href="https://www.imdb.com/pt/title/tt0412142/" target="_blank">House M.D</a>. Atualmente estou assistindo <a href="https://www.imdb.com/pt/title/tt32550889/?ref_=nv_sr_srsg_0_tt_6_nm_1_in_1_q_witch%20" target="_blank">Witch Hat Atelier</a>, <a href="https://www.imdb.com/pt/title/tt10466872/" target="_blank">Dune: Prophecy</a>, <a href="https://www.imdb.com/title/tt14688458/" target="_blank">Silo</a>, <a href="https://www.imdb.com/title/tt9813792/" target="_blank">From</a> e <a href="https://www.imdb.com/title/tt15435876/" target="_blank">The Penguin</a>.<br />
-
-- :calendar: Essa é minha <a href="https://calendly.com/aramuni" target="_blank">agenda</a> se quiser marcar um horário para falarmos.<br />
+- :tv: Minha série preferida chama-se <a href="https://www.imdb.com/pt/title/tt0412142/" target="_blank">House M.D</a>. Atualmente estou assistindo <a href="https://www.imdb.com/pt/title/tt32550889/?ref_=nv_sr_srsg_0_tt_6_nm_1_in_1_q_witch%20" target="_blank">Witch Hat Atelier</a>, <a href="https://www.imdb.com/pt/title/tt10466872/" 
 - :page_facing_up: Veja meu <a href="http://lattes.cnpq.br/1208427665892059" target="_blank">Currículo Lattes</a> para mais informações.
 </p>
 </div>
 </td>
 <td align="center" valign="middle">
-  <img src="https://media1.tenor.com/m/J9WzCvxHZEsAAAAd/ishowspeed-ishowspeed-yeah-right.gif" width="250px" alt="Meu GIF Animado">
+  <img src="https://i.pinimg.com/736x/7f/7b/0c/7f7b0c9bf14ae9b769705a071dfb6dd0.jpg" width="250px" alt="Meu GIF Animado">
 </td>
 </tr>
 <tr>
